@@ -1,0 +1,11 @@
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\bin\Debug\EisenhowerMatrix.exe.config
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\bin\Debug\EisenhowerMatrix.exe
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\bin\Debug\EisenhowerMatrix.pdb
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.csproj.AssemblyReference.cache
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.FormIndex.resources
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.Properties.Resources.resources
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.csproj.GenerateResource.cache
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.csproj.CoreCompileInputs.cache
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.exe
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.pdb
