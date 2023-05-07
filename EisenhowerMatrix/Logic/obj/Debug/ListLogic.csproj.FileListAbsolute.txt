@@ -1,0 +1,6 @@
+C:\Users\pizdn\source\repos\EisenhowerMatrix\Logic\bin\Debug\Logic.dll
+C:\Users\pizdn\source\repos\EisenhowerMatrix\Logic\bin\Debug\Logic.pdb
+C:\Users\pizdn\source\repos\EisenhowerMatrix\Logic\obj\Debug\ListLogic.csproj.AssemblyReference.cache
+C:\Users\pizdn\source\repos\EisenhowerMatrix\Logic\obj\Debug\ListLogic.csproj.CoreCompileInputs.cache
+C:\Users\pizdn\source\repos\EisenhowerMatrix\Logic\obj\Debug\Logic.dll
+C:\Users\pizdn\source\repos\EisenhowerMatrix\Logic\obj\Debug\Logic.pdb

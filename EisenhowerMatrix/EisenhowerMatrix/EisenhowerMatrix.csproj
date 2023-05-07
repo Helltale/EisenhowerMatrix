@@ -46,15 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormIndex.cs">
+    <Compile Include="model\IModel.cs" />
+    <Compile Include="model\Model.cs" />
+    <Compile Include="presenter\Presenter.cs" />
+    <Compile Include="view\FormAdd.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormIndex.Designer.cs">
+    <Compile Include="view\FormAdd.Designer.cs">
+      <DependentUpon>FormAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\FormIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\FormIndex.Designer.cs">
       <DependentUpon>FormIndex.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormIndex.resx">
+    <Compile Include="view\IView.cs" />
+    <Compile Include="view\IViewAdd.cs" />
+    <EmbeddedResource Include="view\FormAdd.resx">
+      <DependentUpon>FormAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\FormIndex.resx">
       <DependentUpon>FormIndex.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -78,6 +92,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logic\ListLogic.csproj">
+      <Project>{cf26a84e-510f-49f5-a82c-2482fd47b5f8}</Project>
+      <Name>ListLogic</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

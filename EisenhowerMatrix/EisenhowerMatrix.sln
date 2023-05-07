@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EisenhowerMatrix", "EisenhowerMatrix\EisenhowerMatrix.csproj", "{F1E8B94F-4BB3-4F62-8F3D-A361422C5327}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{1CE99F3F-F0A4-493C-8672-21707D3CECF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListLogic", "Logic\ListLogic.csproj", "{CF26A84E-510F-49F5-A82C-2482FD47B5F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{F1E8B94F-4BB3-4F62-8F3D-A361422C5327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E8B94F-4BB3-4F62-8F3D-A361422C5327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E8B94F-4BB3-4F62-8F3D-A361422C5327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF26A84E-510F-49F5-A82C-2482FD47B5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF26A84E-510F-49F5-A82C-2482FD47B5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF26A84E-510F-49F5-A82C-2482FD47B5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF26A84E-510F-49F5-A82C-2482FD47B5F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF26A84E-510F-49F5-A82C-2482FD47B5F8} = {1CE99F3F-F0A4-493C-8672-21707D3CECF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {99004E54-9CAE-44FB-964F-491E29C5EF48}

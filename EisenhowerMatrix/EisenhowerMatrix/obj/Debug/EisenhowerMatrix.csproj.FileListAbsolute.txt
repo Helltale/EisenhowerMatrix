@@ -9,3 +9,7 @@ C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\Eisenhow
 C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.csproj.CoreCompileInputs.cache
 C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.exe
 C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.pdb
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\bin\Debug\Logic.dll
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\bin\Debug\Logic.pdb
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.view.FormAdd.resources
+C:\Users\pizdn\source\repos\EisenhowerMatrix\EisenhowerMatrix\obj\Debug\EisenhowerMatrix.csproj.CopyComplete
