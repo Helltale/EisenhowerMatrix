@@ -13,6 +13,9 @@ namespace EisenhowerMatrix
 {
     public partial class FormIndex : Form
     {
+
+        List<string[]> ListCaseMain;
+
         public FormIndex()
         {
             InitializeComponent();
@@ -24,7 +27,7 @@ namespace EisenhowerMatrix
 
         private void labelLabel_Click(object sender, EventArgs e)
         {
-            const string LINK = "https://github.com/Helltale"; 
+            const string LINK = "https://github.com/Helltale";
             System.Diagnostics.Process.Start(LINK);
         }
 
@@ -42,7 +45,9 @@ namespace EisenhowerMatrix
 
         public event EventHandler AddCaseEvent;
         public event EventHandler RemoveCaseEvent;
+
         
+
 
         private void buttonCaseAdd_Click(object sender, EventArgs e)
         {

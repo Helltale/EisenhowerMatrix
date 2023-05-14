@@ -17,16 +17,19 @@ namespace EisenhowerMatrix.view
             InitializeComponent();
         }
 
-        
+
 
         private void button1_Click(object sender, EventArgs e)
         {
             ConvertMass();
+            Program.tmpListCase.Add(newDate);
+            
             this.Close();
         }
 
-        public string[] ConvertMass() {
-            string[] newDate = new string[3];
+        string[] newDate = new string[3];
+        public void ConvertMass() {
+            
 
             if (checkBoxImp.Checked && checkBoxQui.Checked) {
                 newDate[0] = "YY";
@@ -44,7 +47,16 @@ namespace EisenhowerMatrix.view
             newDate[1] = textBox1.Text;
             newDate[2] = richTextBox1.Text;
 
-            return newDate;
+            
         }
+
+        private void FormAdd_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        //public string[] CaseInfAdd { get { return newDate; } }
+
+
     }
 }

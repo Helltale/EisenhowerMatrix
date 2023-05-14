@@ -8,6 +8,6 @@ namespace EisenhowerMatrix.view
 {
     public interface IViewAdd
     {
-        string[] ConvertMass();
+        void ConvertMass();
     }
 }
